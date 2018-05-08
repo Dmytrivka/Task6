@@ -1,0 +1,9 @@
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\UnitTestTask2.dll
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\UnitTestTask2.pdb
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\IraTask2.exe
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\IraTask2.pdb
+D:\game c#\IraTask2\UnitTestTask2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\game c#\IraTask2\UnitTestTask2\obj\Debug\UnitTestTask2.csprojResolveAssemblyReference.cache
+D:\game c#\IraTask2\UnitTestTask2\obj\Debug\UnitTestTask2.dll
+D:\game c#\IraTask2\UnitTestTask2\obj\Debug\UnitTestTask2.pdb

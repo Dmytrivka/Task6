@@ -1,0 +1,6 @@
+D:\game c#\IraTask2\IraTask2\bin\Debug\IraTask2.exe.config
+D:\game c#\IraTask2\IraTask2\obj\Debug\IraTask2.csprojResolveAssemblyReference.cache
+D:\game c#\IraTask2\IraTask2\bin\Debug\IraTask2.exe
+D:\game c#\IraTask2\IraTask2\bin\Debug\IraTask2.pdb
+D:\game c#\IraTask2\IraTask2\obj\Debug\IraTask2.exe
+D:\game c#\IraTask2\IraTask2\obj\Debug\IraTask2.pdb
